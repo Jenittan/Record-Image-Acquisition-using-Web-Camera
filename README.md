@@ -105,3 +105,23 @@ cv2.destroyAllWindows()
 ## Output
 
 ### i) Write the frame as JPG image
+
+<img width="637" height="503" alt="Screenshot 2025-09-20 133703" src="https://github.com/user-attachments/assets/42b6d40d-3108-4ecf-bce0-ea718e7440e1" />
+
+### ii) Display the video
+<img width="651" height="480" alt="Screenshot 2025-09-20 133710" src="https://github.com/user-attachments/assets/db437494-1dd8-405d-8075-b874eda05892" />
+
+
+### iii) Display the video by resizing the window
+
+<img width="344" height="478" alt="Screenshot 2025-09-20 133716" src="https://github.com/user-attachments/assets/9d582197-c77a-4a39-a999-361ef73280df" />
+
+### iv) Rotate and display the video
+
+
+<img width="377" height="475" alt="Screenshot 2025-09-20 133722" src="https://github.com/user-attachments/assets/56d6b72a-0432-44f6-82bd-d06c5eb5f00e" />
+
+
+
+## Result:
+Thus the image is accessed from webcamera and displayed using openCV.
